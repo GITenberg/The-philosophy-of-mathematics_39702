@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Auguste_Comte
     - http://en.wikipedia.org/wiki/Auguste_Comte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39702#The-philosophy-of-mathematics
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2012-05-15'
 gutenberg_type: Text
